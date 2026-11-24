@@ -1,3 +1,12 @@
+# as-quickjs
+
+Ansible Messenger — движок JavaScript QuickJS.
+
+> [!NOTE]
+> **Происхождение кода.** Форк [TelegramMessenger/quickjs](https://github.com/TelegramMessenger/quickjs), который сопровождает проект Ansible Messenger. Сведения об авторах и лицензиях приведены в исходной документации.
+
+## Документация исходного проекта
+
 # ⚡️ QuickJS - A mighty JavaScript engine
 
 ## Overview
